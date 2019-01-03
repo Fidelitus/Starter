@@ -2,8 +2,13 @@ Convert list
 ------------
 - MP3
 - WAV
+- AAC
 
 Video list
 ------------
 - MPG
 - AVI
+
+Hardware List
+------------
+- Video capture card
