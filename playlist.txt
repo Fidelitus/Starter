@@ -1,3 +1,9 @@
 Convert list
 ------------
 - MP3
+- WAV
+
+Video list
+------------
+- MPG
+- AVI
